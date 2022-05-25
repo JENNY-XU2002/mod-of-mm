@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {一、}问题重述}{2}{section.1}%
+\contentsline {subsection}{\numberline {1\,.\,1}问题的提出}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {二、}模型的假设}{3}{section.2}%
+\contentsline {section}{\numberline {三、}符号说明}{3}{section.3}%
+\contentsline {section}{\numberline {四、}问题分析}{3}{section.4}%
+\contentsline {subsection}{\numberline {4\,.\,1}问题一分析}{3}{subsection.4.1}%
+\contentsline {section}{\numberline {五、}绘制普通三线表格}{4}{section.5}%
+\contentsline {section}{\numberline {附录A}代码}{9}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}排队算法--matlab 源程序}{9}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}规划解决程序--lingo源代码}{9}{subsection.A.2}%
+\contentsfinish 
